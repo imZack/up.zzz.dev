@@ -1,7 +1,7 @@
-url: $URL_TESLA_DASHBOARD  
+url: $SECRET_SITE_2  
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2020-11-28T07:35:36.289Z
+code: 401
+responseTime: 638
+lastUpdated: 2020-11-28T07:40:16.759Z
 startTime: Sat Nov 28 2020 07:35:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
