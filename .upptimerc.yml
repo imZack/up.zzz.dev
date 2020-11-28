@@ -8,6 +8,10 @@ sites:
     url: https://eit.tw
   - name: Smokeping (zzz.dev)
     url: https://smokeping.zzz.dev/smokeping/
+  - name: Travel Blog
+    url: $URL_TRAVEL_BLOG
+  - name: Tesla Dashboard
+    url: $URL_TESLA_DASHBOARD
 
 assignees:
   - imZack
