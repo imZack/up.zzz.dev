@@ -9,9 +9,9 @@ sites:
   - name: Smokeping (zzz.dev)
     url: https://smokeping.zzz.dev/smokeping/
   - name: Travel Blog
-    url: $URL_TRAVEL_BLOG
+    url: $SECRET_SITE_1
   - name: Tesla Dashboard
-    url: $URL_TESLA_DASHBOARD
+    url: $SECRET_SITE_2
 
 assignees:
   - imZack
