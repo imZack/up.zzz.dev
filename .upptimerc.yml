@@ -12,6 +12,9 @@ sites:
     url: $SECRET_SITE_1
   - name: Tesla Dashboard
     url: $SECRET_SITE_2
+    expectedStatusCodes:
+      - 200
+      - 401
 
 assignees:
   - imZack
