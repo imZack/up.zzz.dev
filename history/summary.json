@@ -5,7 +5,7 @@
     "slug": "eit-tw",
     "status": "up",
     "uptime": "100.00%",
-    "time": 498
+    "time": 517
   },
   {
     "name": "Smokeping (zzz.dev)",
@@ -13,7 +13,7 @@
     "slug": "smokeping-zzz-dev",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1014
+    "time": 1091
   },
   {
     "name": "Travel Blog",
@@ -21,7 +21,7 @@
     "slug": "travel-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 716
+    "time": 782
   },
   {
     "name": "Tesla Dashboard",
@@ -29,6 +29,6 @@
     "slug": "tesla-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "time": 519
+    "time": 526
   }
 ]
