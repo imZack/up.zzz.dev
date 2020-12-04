@@ -5,7 +5,15 @@
     "slug": "eit-tw",
     "status": "up",
     "uptime": "100.00%",
-    "time": 526
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 582,
+    "timeDay": 563,
+    "timeWeek": 582,
+    "timeMonth": 582,
+    "timeYear": 582
   },
   {
     "name": "Smokeping (zzz.dev)",
@@ -13,7 +21,15 @@
     "slug": "smokeping-zzz-dev",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1108
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1238,
+    "timeDay": 1289,
+    "timeWeek": 1238,
+    "timeMonth": 1238,
+    "timeYear": 1238
   },
   {
     "name": "Travel Blog",
@@ -21,7 +37,15 @@
     "slug": "travel-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 906
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 995,
+    "timeDay": 706,
+    "timeWeek": 995,
+    "timeMonth": 995,
+    "timeYear": 995
   },
   {
     "name": "Tesla Dashboard",
@@ -29,6 +53,14 @@
     "slug": "tesla-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "time": 529
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 599,
+    "timeDay": 561,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599
   }
 ]
