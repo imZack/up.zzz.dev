@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 453,
-    "timeWeek": 553,
-    "timeMonth": 562,
-    "timeYear": 562
+    "time": 550,
+    "timeDay": 404,
+    "timeWeek": 523,
+    "timeMonth": 550,
+    "timeYear": 550
   },
   {
     "name": "Smokeping (zzz.dev)",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1234,
-    "timeDay": 1203,
-    "timeWeek": 1273,
-    "timeMonth": 1234,
-    "timeYear": 1234
+    "time": 1216,
+    "timeDay": 995,
+    "timeWeek": 1244,
+    "timeMonth": 1216,
+    "timeYear": 1216
   },
   {
     "name": "Travel Blog",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 944,
-    "timeDay": 581,
-    "timeWeek": 962,
-    "timeMonth": 944,
-    "timeYear": 944
+    "time": 905,
+    "timeDay": 519,
+    "timeWeek": 910,
+    "timeMonth": 905,
+    "timeYear": 905
   },
   {
     "name": "Tesla Dashboard",
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 356,
-    "timeWeek": 510,
-    "timeMonth": 560,
-    "timeYear": 560
+    "time": 543,
+    "timeDay": 378,
+    "timeWeek": 483,
+    "timeMonth": 543,
+    "timeYear": 543
   }
 ]
