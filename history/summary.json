@@ -2,6 +2,7 @@
   {
     "name": "eit.tw",
     "url": "https://eit.tw",
+    "icon": "https://favicons.githubusercontent.com/eit.tw",
     "slug": "eit-tw",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 404,
-    "timeWeek": 523,
-    "timeMonth": 550,
-    "timeYear": 550
+    "time": 552,
+    "timeDay": 573,
+    "timeWeek": 513,
+    "timeMonth": 552,
+    "timeYear": 552,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Smokeping (zzz.dev)",
     "url": "https://smokeping.zzz.dev/smokeping/",
+    "icon": "https://favicons.githubusercontent.com/smokeping.zzz.dev",
     "slug": "smokeping-zzz-dev",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1216,
-    "timeDay": 995,
-    "timeWeek": 1244,
-    "timeMonth": 1216,
-    "timeYear": 1216
+    "time": 1232,
+    "timeDay": 1445,
+    "timeWeek": 1217,
+    "timeMonth": 1232,
+    "timeYear": 1232,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Travel Blog",
     "url": "$SECRET_SITE_1",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "travel-blog",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 905,
-    "timeDay": 519,
-    "timeWeek": 910,
-    "timeMonth": 905,
-    "timeYear": 905
+    "time": 881,
+    "timeDay": 619,
+    "timeWeek": 839,
+    "timeMonth": 881,
+    "timeYear": 881,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tesla Dashboard",
     "url": "$SECRET_SITE_2",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tesla-dashboard",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 378,
-    "timeWeek": 483,
-    "timeMonth": 543,
-    "timeYear": 543
+    "time": 553,
+    "timeDay": 660,
+    "timeWeek": 497,
+    "timeMonth": 553,
+    "timeYear": 553,
+    "dailyMinutesDown": {}
   }
 ]
